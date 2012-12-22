@@ -43,11 +43,11 @@ public class MainFrame extends JFrame
 	private JMenuItem saveMenuItem;
 	private ImageEditorPanel imageEditor;
 
-	private static final String TITLE_FORMAT = "Draw 9-patch: %s";
+	private static final String TITLE_FORMAT = "Draw9PatchExtended: %s";
 
 	public MainFrame(String path) throws HeadlessException
 	{
-		super("Draw 9-patch by JL");
+		super("Draw9PatchExtended");
 
 		buildActions();
 		buildMenuBar();
