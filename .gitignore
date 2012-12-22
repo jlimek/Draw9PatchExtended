@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.dat
+*.db
+*/bin
+*/lib
+*/tmp
+
+
+
+/bin
